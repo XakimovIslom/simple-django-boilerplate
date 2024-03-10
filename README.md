@@ -19,7 +19,8 @@ create .env file
 
 ## Generate secret key
 ```python manage.py shell```
-and run this command below
+and run this command 
+
 ```from django.core.management.utils import get_random_secret_key``` 
 
 ```get_random_secret_key()```
