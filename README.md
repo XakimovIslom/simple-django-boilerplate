@@ -21,6 +21,7 @@ create .env file
 ```python manage.py shell```
 and run this command below
 ```from django.core.management.utils import get_random_secret_key``` 
+
 ```get_random_secret_key()```
 
 Enjoy! 
